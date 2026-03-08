@@ -1,0 +1,5 @@
+digits = [0,2,1,3,1,3]
+
+digits.sort()
+
+print(digits)
